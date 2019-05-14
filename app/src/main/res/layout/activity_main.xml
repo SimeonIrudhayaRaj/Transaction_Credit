@@ -22,7 +22,7 @@
         android:layout_height="40dp"
         android:onClick="rem"
         android:layout_alignParentBottom="true"
-        android:background="@color/colorPrimary"
+        android:background="#4DE5FF"
         android:text="TRANSACTIONS"/>
 
 </RelativeLayout>
