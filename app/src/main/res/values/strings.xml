@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">creditList</string>
+    <string name="app_name">Transaction_Credit</string>
     <string name="enter_amount_to_send">Enter amount to send:</string>
     <string name="phone">Phone</string>
     <string name="click_here_to_transfer_amount">Click here to Transfer amount</string>
